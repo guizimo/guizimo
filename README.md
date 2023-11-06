@@ -1,16 +1,19 @@
 <h1 align="center">Welcome to Guizimo Space</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8633F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+personal+space;a+little+front+end;a+little+back+end;+interested+in+security;focused+on+hardware;learning+about+game+development)](https://git.io/typing-svg)
+<h2>欢迎来访我的GitHub</h2>
+
+我的网名是`Guizimo(归子莫)` ，是一名软件开发工程师。目前，我主要关注在：前端、大模型、嵌入式、游戏。下方可以看到我开源的相关项目repo。
 
 <div>
     <kbd align="center" valign="center">
-        <a href="https://github.com/Charmve/guizimo">
+        <a href="https://github.com/guizimo/guizimo">
             <img align="right" src="https://komarev.com/ghpvc/?username=guizimo&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
         </a>
-        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <u>已经有这么多小伙伴访问过啦</u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </kbd>
 </div>
 
+希望跟大家一起多多交流，感兴趣的可以继续看下去。
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/guizimo"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dguizimo&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
