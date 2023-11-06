@@ -1,6 +1,12 @@
-<h1 align="center">Welcome to guizimo space 👋</h1>
+<h1 align="center">Welcome to Guizimo Space</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8633F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+personal+space;a+little+front+end;a+little+back+end;+interested+in+security;focused+on+hardware;learning+about+game+development)](https://git.io/typing-svg)
+
+
+<p align="center">
+    <a title="github" target="_blank" href="https://github.com/guizimo"><img align="right" src="https://komarev.com/ghpvc/?username=guizimo&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" /></a>
+</p>
+
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/guizimo"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dguizimo&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
