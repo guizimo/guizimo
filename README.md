@@ -33,9 +33,23 @@
 
 <h2>欢迎来访我的GitHub</h2>
 
-我的网名是`Guizimo(归子莫)` ，是一名软件开发工程师。目前，我主要关注在：前端、大模型、嵌入式、游戏。下方可以看到我开源的相关项目repo。
+<table>
+<tr><td>
 
-希望跟大家一起多多交流，感兴趣的可以继续看下去。
+<!-- About me 关于我 -->
+###  🙋 About Me
+
+<p>&emsp;&emsp;我的网名是`Guizimo(归子莫)` 。</p>
+<p>&emsp;&emsp;是一名什么都想做的软件开发工程师。</p>
+<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;目前，我主要关注于前端、大模型、嵌入式、游戏等领域。</p>
+<p>&emsp;&emsp;下方可以看到我开源的相关项目repo。</p>
+<p>&emsp;&emsp;希望跟大家一起多多交流，感兴趣的可以继续看下去。</p>
+<p><strong>&emsp;&emsp;不负韶华，顶峰相见！Live up to your youth and meet at the top.</strong></p>
+
+</td></tr>
+</table>
+
 
 
 <p align="center">
