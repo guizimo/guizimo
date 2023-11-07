@@ -45,13 +45,6 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guizimo)](https://github.com/guizimo/guizimo)
-
-</div>
-
-
-
-
-
 <p align="center">
   <a href="https://github.com/guizimo" class="rich-diff-level-one">
     <img src="https://readme-stats-server-jackcc.vercel.app/api?username=guizimo&title_color=333&text_color=777" alt="Guizimo's Stats" >
@@ -78,5 +71,17 @@
     <img src="https://badges.strrl.dev/commits/monthly/guizimo?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+
+
+### 🚗 Contribution
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+
+
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/Bottom_down.svg" /><br>
