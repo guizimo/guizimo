@@ -34,7 +34,7 @@
 <h2>欢迎来访我的GitHub</h2>
 
 <table>
-<tr><td>
+<tr><td width="100%">
 
 <!-- About me 关于我 -->
 ###  🙋 About Me
@@ -48,7 +48,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td width="100%">
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
