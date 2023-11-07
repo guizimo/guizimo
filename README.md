@@ -29,12 +29,8 @@
 </picture>
 </div>
 
-
-
-<h2>欢迎来访我的GitHub</h2>
-
-<table>
-<tr><td width="100%">
+<div align="center">
+    <h2>欢迎来访我的GitHub</h2>
 
 <!-- About me 关于我 -->
 ###  🙋 About Me
@@ -46,28 +42,13 @@
 <p>&emsp;&emsp;希望跟大家一起多多交流，感兴趣的可以继续看下去。</p>
 <p><strong>&emsp;&emsp;不负韶华，顶峰相见！Live up to your youth and meet at the top.</strong></p>
 
-</td></tr>
-
-<tr><td width="100%">
-
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guizimo)](https://github.com/guizimo/guizimo)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+</div>
 
-</td></tr>
 
-</table>
 
 
 
