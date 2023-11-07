@@ -1,17 +1,17 @@
-name: generate-snake
+name: generate animation
 
 on:
-  # 每 12 小时自动运行一次
+  # run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
 
-  # 允许手动触发执行
+  # allows to manually run the job at any time
   workflow_dispatch:
 
-  # 每当push到master分支时自动执行
+  # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
 
 
 
