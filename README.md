@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/Bottom_down.svg" /><br>
+<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/Bottom_up.svg" />
 
 <div align="center">
 
@@ -64,3 +64,5 @@
     <img src="https://badges.strrl.dev/commits/monthly/guizimo?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/Bottom_down.svg" /><br>
