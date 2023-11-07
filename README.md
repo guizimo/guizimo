@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- 主页图片 -->
-<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/idea.jpg" /><br>
+<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/head.png" /><br>
 
 </div>
 
