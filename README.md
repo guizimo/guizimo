@@ -1,5 +1,14 @@
 <h1 align="center">Welcome to Guizimo Space</h1>
 
+<div align="center">
+
+<!-- 主页图片 -->
+<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/idea.jpg" /><br>
+
+</div>
+
+
+
 <h2>欢迎来访我的GitHub</h2>
 
 我的网名是`Guizimo(归子莫)` ，是一名软件开发工程师。目前，我主要关注在：前端、大模型、嵌入式、游戏。下方可以看到我开源的相关项目repo。
