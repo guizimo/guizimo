@@ -12,12 +12,12 @@
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog.guizimo.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/guizimo/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://juejin.cn/user/3412492674665367"><img src="https://img.shields.io/badge/Juejin-掘金-1F80FF" /></a>&emsp;
     <a href="https://www.youtube.com/@guizimo"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://blog.guizimo.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/247071507"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://guizimo.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-CSDN-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/guizimo"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <a href="https://github.com/guizimo"><img src="https://komarev.com/ghpvc/?username=guizimo&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" /></a>
   </div>
@@ -74,9 +74,21 @@
 
 
 
-### 🚗 Contribution
+### 🏆 奖杯
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=guizimo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+### 🏖️ Awesome repo
+<!-- Awesome repo 比较好的仓库-->
+<a href="https://github.com/guizimo/gzm-browser">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=guizimo&repo=gzm-browser&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/guizimo/tl-admin">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=guizimo&repo=tl-admin&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
+### 🚗  Contribution
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/profile-3d-contrib/profile-night-rainbow.svg" />
+
 </div>
 
 
