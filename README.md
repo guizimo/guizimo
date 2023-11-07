@@ -35,7 +35,7 @@
 <!-- About me 关于我 -->
 ###  🙋 About Me
 
-<p>&emsp;&emsp;我的网名是`Guizimo(归子莫)` 。</p>
+<p>&emsp;&emsp;我的网名是<strong>Guizimo(归子莫)。</strong></p>
 <p>&emsp;&emsp;是一名什么都想做的软件开发工程师。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;目前，我主要关注于前端、大模型、嵌入式、游戏等领域。</p>
