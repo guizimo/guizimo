@@ -1,10 +1,26 @@
 <div align="center">
 
-<h1>Guizimo Space</h1>
+<h1>🌟 归子莫 🌟</h1>
 
 <!-- 主页图片 -->
 <img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/header.png" /><br>
-</br>
+
+<!-- 个人简介 -->
+<p>
+  <samp>
+    「 热爱编程 · 追求创新 · 永不止步 」
+  </samp>
+</p>
+
+<!-- 技术栈标签 -->
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
 </div>
 
 <div align="center">
@@ -29,17 +45,27 @@
 </div>
 
 <div align="center">
-    <h2>欢迎来访我的GitHub</h2>
+     <h2>🎉 欢迎来访我的 GitHub</h2>
 
 <!-- About me 关于我 -->
-###  🙋 About Me
+### 👨‍💻 关于我
 
-<p>&emsp;&emsp;我的网名是<strong>Guizimo(归子莫)。</strong></p>
-<p>&emsp;&emsp;是一名什么都想做的软件开发工程师。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;目前，我主要关注于前端、大模型、嵌入式、游戏等领域。</p>
-<p>&emsp;&emsp;希望跟大家一起多多交流，感兴趣的可以继续看下去。</p>
-<p><strong>&emsp;&emsp;不负韶华，顶峰相见！Live up to your youth and meet at the top.</strong></p>
+<table>
+  <tr>
+    <td>
+      ✨ 我是 <strong>Guizimo(归子莫)</strong><br>
+      🚀 一名充满热情的全栈开发工程师<br>
+      📷 热爱编程、摄影、读书、旅行<br>
+      🔭 专注于前端、大模型、嵌入式、游戏开发<br>
+      🌱 永远保持学习的热情<br>
+      💬 欢迎与我交流技术话题<br>
+      📫 座右铭：一周是一年的 2%
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizimo&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -88,11 +114,17 @@
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/profile-3d-contrib/profile-night-rainbow.svg" />
 
+
+<!-- 添加技能进度条 -->
+### 🛠️ 技能树
+
+<div align="center">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 </div>
 
+</div>
 
-
-
-
-
-<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/Bottom_down.svg" /><br>
