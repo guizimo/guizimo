@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/guizimo/guizimo/assets/images/Bottom_up.svg" />
 
 <h1>Guizimo Space</h1>
 
